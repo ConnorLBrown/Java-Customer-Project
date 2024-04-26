@@ -17,6 +17,9 @@ followed by its name.
 2. Virology
 3. Hematology
 4. Parasitology
+
+
+
 Lab Testing Departments
 https://www.ncbi.nlm.nih.gov/books/NBK535358/
 ➔ A unique customer number is created by the application.
